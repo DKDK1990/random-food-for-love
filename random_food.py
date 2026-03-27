@@ -31,4 +31,3 @@ st.markdown(f"## 🍲 {st.session_state.current_food}")
 if st.button("🎲 随机点餐", use_container_width=True):
     st.session_state.current_food = random.choice(MENU)
 
-st.caption("把这个链接分享给朋友，他们也能用～")
