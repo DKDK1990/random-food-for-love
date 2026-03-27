@@ -8,7 +8,7 @@ st.markdown(
     """
     <meta property="og:title" content="随机点餐助手">
     <meta property="og:description" content="点击按钮，随机决定今天吃什么！">
-    <meta property="og:image" content="https://https://raw.githubusercontent.com/DKDK1990/random-food-for-love/tree/main/images/food.jpg">
+    <meta property="og:image" content="https://raw.githubusercontent.com/DKDK1990/random-food-for-love/main/images/food.jpg">
     <meta property="og:type" content="website">
     """,
     unsafe_allow_html=True
